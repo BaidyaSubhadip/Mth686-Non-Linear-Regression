@@ -22,7 +22,3 @@ In this project, a dataset consisting of paired observations \((t, y(t))\) is an
 ## Requirements
 
 - Python packages: `numpy`, `scipy`, `matplotlib`
-
-## Results
-
-The model that best represents the data is determined based on goodness-of-fit metrics. Detailed statistical results and graphical representations of model fits are provided in the `results/` directory.
